@@ -1,0 +1,88 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "nama": "ardiansyah",
+            "alamat": "jl. danau towuti",
+            "umur": 25,
+            "telp": "082175127855"
+        },
+        {
+            "id": 2,
+            "nama": "edison",
+            "alamat": "jl. danau toba",
+            "umur": 29,
+            "telp": "082175127853"
+        },
+        {
+            "id": 3,
+            "nama": "Reyhan",
+            "alamat": "jl. raden saleh",
+            "umur": 21,
+            "telp": "082175127854"
+        },
+        {
+            "id": 4,
+            "nama": "rian",
+            "alamat": "jl. danau toba",
+            "umur": 29,
+            "telp": "082175127853"
+        },
+        {
+            "id": 5,
+            "nama": "ramhat",
+            "alamat": "jl. danau toba",
+            "umur": 29,
+            "telp": "082175127853"
+        },
+        {
+            "id": 6,
+            "nama": "galih",
+            "alamat": "jl. danau toba",
+            "umur": 29,
+            "telp": "082175127853"
+        },
+        {
+            "id": 7,
+            "nama": "muhammad",
+            "alamat": "jl. danau toba",
+            "umur": 29,
+            "telp": "082175127853"
+        },
+        {
+            "id": 8,
+            "nama": "kiki",
+            "alamat": "jl. danau toba",
+            "umur": 29,
+            "telp": "082175127853"
+        },
+        {
+            "id": 9,
+            "nama": "edi sutrisno",
+            "alamat": "jl. danau toba",
+            "umur": 29,
+            "telp": "082175127853"
+        },
+        {
+            "id": 10,
+            "nama": "ryansyah",
+            "alamat": "jl. danau toba",
+            "umur": 29,
+            "telp": "082175127853"
+        },
+        {
+            "id": 11,
+            "nama": "muklis",
+            "alamat": "jl. danau toba",
+            "umur": 29,
+            "telp": "082175127853"
+        },
+        {
+            "id": 12,
+            "nama": "malika",
+            "alamat": "jl. danau toba",
+            "umur": 29,
+            "telp": "082175127853"
+        }
+    ]
+}
